@@ -1,0 +1,10 @@
+pip install opencv-python==4.1.1.26
+pip install lxml==4.5.0
+pip install tqdm==4.49.0
+pip install tensorflow==2.3.0
+pip install keras==2.9.0
+pip install absl-py==0.15.0
+pip install easydict==1.9
+pip install matplotlib==3.1.1
+pip install pillow==6.2.1
+pip install h5py==2.10.0
